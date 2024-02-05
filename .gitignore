@@ -1,0 +1,5 @@
+zip.js
+build/
+
+web/__pycache__
+web/assets/res
